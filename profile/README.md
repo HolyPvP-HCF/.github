@@ -1,0 +1,33 @@
+<div align="center">
+
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=HolyPvP;competitive+minecraft+network;UHC+%7C+Meetup+%7C+Practice+%7C+KitMap+%7C+HCF;leading+Spanish+PvP+since+2016;always+evolving)](https://git.io/typing-svg)
+
+<br/>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1c1c1c&height=2&width=60%)
+
+<br/>
+
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=10&duration=1&pause=999999&color=555555&center=true&vCenter=true&width=200&lines=DEVELOPERS)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://github.com/v4lss">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=v4lss&data=followers,repositories,stars,commits&theme=darkmode" alt="v4lss"/>
+</a>
+
+<a href="https://github.com/iSixyy">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=iSixyy&data=followers,repositories,stars,commits&theme=darkmode" alt="iSixyy"/>
+</a>
+
+<br/>
+
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=10&duration=1&pause=999999&color=555555&center=true&vCenter=true&width=200&lines=OUTSIDE+COLLABORATOR)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://github.com/Sebastian-vas">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Sebastian-vas&data=followers,repositories,stars,commits&theme=darkmode" alt="Sebastian-vas"/>
+</a>
+
+</div>
