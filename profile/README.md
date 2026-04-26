@@ -20,4 +20,9 @@
   <img src="https://github-widgetbox.vercel.app/api/profile?username=iSixyy&data=followers,repositories,stars,commits&theme=darkmode" alt="iSixyy"/>
 </a>
 
+<a href="https://github.com/Suspendido">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Suspendido&data=followers,repositories,stars,commits&theme=darkmode" alt="v4lss"/>
+</a>
+
+
 </div>
